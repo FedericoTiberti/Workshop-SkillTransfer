@@ -22,6 +22,8 @@ The combination of these two algorithms brings a unique aspect to skill transfer
 
 ## How It Works
 - **Object Recognition**: Leveraging machine learning techniques, the system can detect and identify various leatherworking tools, providing real-time suggestions or feedback based on the detected objects.
-- **Emotion Recognition**: Through facial analysis, the system evaluates the user's emotions (e.g., frustration, satisfaction) and adjusts the guidance or support given by the system to maintain a positive and productive learning environment.
+  Check the demo here! [Object recognition video demo](videos/object_detection.mp4)
+- **Emotion Recognition**: Through facial analysis, the system evaluates the user's emotions (e.g., frustration, satisfaction) and adjusts the guidance or support given by the system to maintain a positive and productive learning environment. [Emotion recognition video demo](videos/emotion_recognition_example.mp4)
 
-Check out two demo videos on the video folder of this repo! 📷
+## Conclusions ✔
+This project demonstrates the potential of integrating advanced technological solutions to preserve and transfer traditional skills, such as handcrafted leatherwork. By combining object recognition and emotion recognition algorithms, we aim to create a more personalized and effective learning experience for users. Our work not only highlights the importance of skill transfer in craftsmanship but also sets the stage for future innovations in educational technologies. We believe that with further development, this system can significantly enhance the way artisans share their expertise with the next generation.
